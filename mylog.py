@@ -8,8 +8,6 @@ import getpass
 import sys
 
 
-
-
 # 定义MyLog类
 class MyLog(object):
     # 类MyLog的构造函数
@@ -29,7 +27,7 @@ class MyLog(object):
 
         self.logHandSt = logging.StreamHandler()
         self.logHandSt.setFormatter(self.formatter)
-        self.logHandSt.setFormatter(logging.DEBUG)
+        # self.logHandSt.setFormatter(logging.DEBUG)
 
         self.logger.addHandler(self.logHand)
         self.logger.addHandler(self.logHandSt)
@@ -39,7 +37,6 @@ class MyLog(object):
         self.logger.debug(msg)
 
     def info(self,msg):
-        print msg
         self.logger.info(msg)
 
     def warn(self,msg):

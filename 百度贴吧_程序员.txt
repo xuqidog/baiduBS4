@@ -1,7 +1,37 @@
+title:编程视频教程分享~ 	 author:晋y汀bW 	 firstTime:2-9 
+ content:更多编程教程 http://t.cn/RJA2MSH 
+ reNum:3606 
+ lastAuthor:沈旭迂敞脓 	 lastTime:23:25 
+
+
+title:有木有想过有一天我们程序员们会失业？ 	 author:自产土核桃专卖 	 firstTime:3-2 
+ content:我在一个公众号上看到的，觉得很好，很有感触，分享给大家。 
+ reNum:24 
+ lastAuthor:自产土核桃专卖 	 lastTime:23:25 
+
+
 title:离开工地十年，让我来告诉你什么是人性 	 author:_双双双双双双 	 firstTime:2016-12 
  content:人生有两条路，一条是必须走的路，一条是想走的路；只有把必须走的路走漂亮，才能走想走的路. 
- reNum:875 
- lastAuthor:盘手找资金 	 lastTime:22:55 
+ reNum:876 
+ lastAuthor:圣王kw7 	 lastTime:23:24 
+
+
+title:创业路上折腾了十多年，讲讲这些年来的经历和教训——望共勉 	 author:忆红颜美容院 	 firstTime:1-5 
+ content:希望这篇文章能够帮助到想创业的朋友，愿你们在创业路上少走弯路 我本是农村出来的人，从2005年开始 
+ reNum:92 
+ lastAuthor:耗扩仪丑 	 lastTime:23:24 
+
+
+title:下周有一个面试，很纠结请教吧里一些问题！！ 	 author:爱听昆曲的潮汐 	 firstTime:17:46 
+ content:一楼放图 
+ reNum:6 
+ lastAuthor:铭铭铭铭记在心 	 lastTime:23:24 
+
+
+title:【推荐】脸书、谷歌服务首选 飞牛VρN（加扣：2143567960） 	 author:可是我真的会飞 	 firstTime:1-28 
+ content:日本SS、美国SS、香港SS、 高速VρN（SS） 运营3年的多线路的老牌站了，速度和稳定性都是数一数二的。 又 
+ reNum:265 
+ lastAuthor:eznkbrkdu 	 lastTime:23:10 
 
 
 title:程序制作工具【免费版】 	 author:hofosoft 	 firstTime:21:46 
@@ -20,12 +50,6 @@ title:准备入坑程序员，大家推荐什么编程语言？ 	 author:尹轩7
  content:本人照片镇楼 
  reNum:46 
  lastAuthor:下次的暗示 	 lastTime:22:38 
-
-
-title:下周有一个面试，很纠结请教吧里一些问题！！ 	 author:爱听昆曲的潮汐 	 firstTime:17:46 
- content:一楼放图 
- reNum:5 
- lastAuthor:下次的暗示 	 lastTime:22:35 
 
 
 title:求毕设代做 价钱好商量 	 author:QVOD小王子 	 firstTime:3-3 
@@ -56,12 +80,6 @@ title:来个长期聊天的，走心的，看到就会回的！ 	 author:Jk82qu5
  content: 
  reNum:8 
  lastAuthor:luckygcfuh 	 lastTime:22:09 
-
-
-title:【推荐】脸书、谷歌服务首选 飞牛VρN（加扣：2143567960） 	 author:可是我真的会飞 	 firstTime:1-28 
- content:日本SS、美国SS、香港SS、 高速VρN（SS） 运营3年的多线路的老牌站了，速度和稳定性都是数一数二的。 又 
- reNum:265 
- lastAuthor:eznkbrkdu 	 lastTime:22:09 
 
 
 title:看完本帖一年内不能拥有百W身家，你还不承认你是智障吗？？？ 	 author:尼古拉清奇 	 firstTime:21:36 
@@ -100,12 +118,6 @@ title:想学游戏辅助制作，可以到魔鬼作坊学习哦！ 	 author:学�
  lastAuthor:笑爱珍 	 lastTime:21:07 
 
 
-title:编程视频教程分享~ 	 author:晋y汀bW 	 firstTime:2-9 
- content:更多编程教程 http://t.cn/RJA2MSH 
- reNum:3603 
- lastAuthor:廖小强711 	 lastTime:20:46 
-
-
 title:大过年的，忽然感觉自己身体有点不行，怎么办啊 	 author:最后这样子 	 firstTime:1-23 
  content:好像是男人方面出了问题了 
  reNum:24 
@@ -122,12 +134,6 @@ title:什么机械键盘好用？ 	 author:time96cc 	 firstTime:2016-12
  content:男朋友是做安卓手机软件开发的 快过生日了 想送他一个键盘 但是我真的不太了解什么样的键盘更适合他 
  reNum:28 
  lastAuthor:泓丶无他不爱纺 	 lastTime:20:21 
-
-
-title:创业路上折腾了十多年，讲讲这些年来的经历和教训——望共勉 	 author:忆红颜美容院 	 firstTime:1-5 
- content:希望这篇文章能够帮助到想创业的朋友，愿你们在创业路上少走弯路 我本是农村出来的人，从2005年开始 
- reNum:92 
- lastAuthor:妹妹淘宝宝 	 lastTime:20:20 
 
 
 title:【求助】西安大数据培训机构哪家好点呀？？ 	 author:科技MO 	 firstTime:2016-09 
@@ -176,12 +182,6 @@ title:做程序员的几大好处，未来的趋势，分享最新的程序学�
  content:1. 相对较高的薪水 这个必须要放在第一位的来说，那就是干IT能养活自己。在中国，如果单看工资收入， 
  reNum:532 
  lastAuthor:wn8fu9 	 lastTime:18:28 
-
-
-title:有木有想过有一天我们程序员们会失业？ 	 author:自产土核桃专卖 	 firstTime:3-2 
- content:我在一个公众号上看到的，觉得很好，很有感触，分享给大家。 
- reNum:23 
- lastAuthor:golt9012 	 lastTime:18:20 
 
 
 title:女朋友今天拿到了中软国际的offer 	 author:wohuairou 	 firstTime:2016-03 

@@ -1,0 +1,48 @@
+2017-03-04 23:23:27,675 DEBUG    xuqidong   I'm debug 测试中文
+
+2017-03-04 23:23:27,675 INFO     xuqidong   I'm info    
+
+2017-03-04 23:23:27,675 WARNING  xuqidong   I'm warn    
+
+2017-03-04 23:23:27,676 ERROR    xuqidong   I'm error 测试中文
+
+2017-03-04 23:23:27,676 CRITICAL xuqidong   I'm critical
+
+2017-03-04 23:23:36,521 DEBUG    xuqidong   I'm debug 测试中文
+
+2017-03-04 23:23:36,532 INFO     xuqidong   I'm info    
+
+2017-03-04 23:23:36,533 WARNING  xuqidong   I'm warn    
+
+2017-03-04 23:23:36,533 ERROR    xuqidong   I'm error 测试中文
+
+2017-03-04 23:23:36,533 CRITICAL xuqidong   I'm critical
+
+2017-03-04 23:23:49,066 ERROR    xuqidong   I'm error 测试中文
+
+2017-03-04 23:23:49,066 CRITICAL xuqidong   I'm critical
+
+2017-03-04 23:24:28,025 ERROR    xuqidong   I'm error 测试中文
+
+2017-03-04 23:24:28,025 CRITICAL xuqidong   I'm critical
+
+2017-03-04 23:25:21,076 DEBUG    xuqidong   I'm debug 测试中文
+
+2017-03-04 23:25:21,077 INFO     xuqidong   I'm info    
+
+2017-03-04 23:25:21,077 WARNING  xuqidong   I'm warn    
+
+2017-03-04 23:25:21,077 ERROR    xuqidong   I'm error 测试中文
+
+2017-03-04 23:25:21,078 CRITICAL xuqidong   I'm critical
+
+2017-03-04 23:25:43,752 DEBUG    xuqidong   I'm debug 测试中文
+
+2017-03-04 23:25:43,753 INFO     xuqidong   I'm info    
+
+2017-03-04 23:25:43,753 WARNING  xuqidong   I'm warn    
+
+2017-03-04 23:25:43,753 ERROR    xuqidong   I'm error 测试中文
+
+2017-03-04 23:25:43,753 CRITICAL xuqidong   I'm critical
+

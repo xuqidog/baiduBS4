@@ -23,7 +23,7 @@ class GetTiebaInfo(object):
     def __init__(self, url):
         self.url = url
         self.log = mylog()
-        self.pageSum = 1
+        self.pageSum = 1  # 爬去的页数
         self.urls = self.getUrls(self.pageSum)
         self.items = self.spider(self.urls)
         self.pipelines(self.items)
